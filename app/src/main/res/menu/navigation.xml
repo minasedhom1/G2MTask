@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/com_facebook_favicon_blue"
+        android:title="@string/title_facebook" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@mipmap/earth_icon"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@mipmap/contact_icon"
+        android:title="@string/title_contacts" />
+
+  <item
+        android:id="@+id/navigation_home2"
+        android:icon="@mipmap/calendar_icon"
+        android:title="@string/title_calendar" />
+
+        <item
+            android:id="@+id/navigation_dashboard2"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/title_cache" />
+ <!--
+        <item
+            android:id="@+id/navigation_notification2s"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/title_notifications" />-->
+</menu>

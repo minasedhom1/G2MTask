@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">G2MTask</string>
+    <string name="title_activity_bottom_navigation">G2dmx Tasks</string>
+    <string name="title_facebook">Facebook</string>
+    <string name="title_search">Countries</string>
+    <string name="title_contacts">Contacts</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_cache">Cache Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--  Facebook App Id-->
+    <string name="facebook_app_id">1787778304885182</string>
+</resources>
